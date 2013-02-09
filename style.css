@@ -48,7 +48,7 @@ body {
   border-radius: 4px;
   padding: 8px 0;
   height: 14px;
-  font-size: 12px;
+  font-size: 16px;
 }
 
 /* The #reset button and the #gameScore button are in the header bar */
@@ -56,7 +56,7 @@ body {
 #gameScore {
   display: block;
   float: left;
-  text-align: left;
+  text-align: right;
   padding: 0 0 0 15px;
 }
 
@@ -96,11 +96,11 @@ body {
 /* These styles create the images on the cards. We're using a path to the images
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
-.ie {background: url(./images/ie.png) no-repeat; background-size: contain;}
-.fx {background: url(./images/fx.png) no-repeat; background-size: contain;}
-.cr {background: url(./images/cr.png) no-repeat; background-size: contain;}
-.sf {background: url(./images/sf.png) no-repeat; background-size: contain;}
-.op {background: url(./images/op.png) no-repeat; background-size: contain;}
+.ie {background: url(http://data.whicdn.com/images/50633928/siberian-husky-28_large.jpg) no-repeat; background-size: contain;}
+.fx {background: url(http://hanalei.olx.com/precious-micro-white-teacup-pomeranian-puppies-iid-470616850#) no-repeat; background-size: contain;}
+.cr {background: url(http://brotherbangun.net/wp-content/uploads/2012/10/puppies-and-kittens-04.jpg) no-repeat; background-size: contain;}
+.sf {background: url() no-repeat;http://www.animalfacts.lv2lvu.com/wp-content/uploads/2012/12/gorgeous-teacup-size-yorkie-puppies_1.jpg background-size: contain;}
+.op {background: url(http://www.dreamstime.com/register?jump_to=http://www.dreamstime.com/royalty-free-stock-images-white-lab-puppy-image3113479) no-repeat; background-size: contain;}
 .ns {background: url(./images/ns.png) no-repeat; background-size: contain;}
 .tb {background: url(./images/tb.png) no-repeat; background-size: contain;}
 .fm {background: url(./images/fm.png) no-repeat; background-size: contain;}
