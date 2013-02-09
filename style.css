@@ -13,7 +13,7 @@ body {
   text-align: center;
   background-color: blue;
   
-  font-family: "Days One", sans-serif;
+  font-family: "Times New Roman", sans-serif;
 }
 
 /* The #game element holds the whole game */
@@ -259,5 +259,5 @@ body {
   z-index: 10;
 }
 .card-removed {
-  opacity: 0;
+  opacity: 50;
 }
